@@ -17,7 +17,7 @@ foreach (KeyValuePair<string, string[]> exploit in exploitContents)
     }
 }
 
-
+//hi
 return;
 IEnumerable<string> FilterFiles(string path, string[] exts)
 {
